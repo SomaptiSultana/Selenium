@@ -2,3 +2,5 @@ selenium/test/FirefoxLaunch.java
  selenium.test.FirefoxLaunch
 selenium/test/ChromeLaunch.java
  selenium.test.ChromeLaunch
+selenium/test/LocatorTest.java
+ selenium.test.LocatorTest
