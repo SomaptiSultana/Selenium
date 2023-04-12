@@ -2,5 +2,13 @@ selenium/test/FirefoxLaunch.java
  selenium.test.FirefoxLaunch
 selenium/test/ChromeLaunch.java
  selenium.test.ChromeLaunch
+selenium/test/DynamicInteracting.java
+ selenium.test.DynamicInteracting
+selenium/test/DynamicLocators.java
+ selenium.test.DynamicLocators
 selenium/test/LocatorTest.java
  selenium.test.LocatorTest
+selenium/test/DynamicAllUrl.java
+ selenium.test.DynamicAllUrl
+selenium/test/DynamicInformation.java
+ selenium.test.DynamicInformation

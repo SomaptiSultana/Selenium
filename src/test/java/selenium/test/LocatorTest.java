@@ -49,7 +49,7 @@ public class LocatorTest {
         Thread.sleep(2000);
 
         //By partialLinkText
-       // driver.findElement(By.partialLinkText("t U")).click();
+        driver.findElement(By.partialLinkText("t U")).click();
         Thread.sleep(2000);
 
         //By cssSelector
