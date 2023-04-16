@@ -29,7 +29,7 @@ public class AlertsTest {
         ConfirmAlert.dismiss();
         Thread.sleep(2000);
 
-        //prompt Button
+        //prompt Button.
         driver.findElement(By.id("promtButton")).click();
         Alert PromptAlert=driver.switchTo().alert();    //Object
         PromptAlert.sendKeys("Somapti");
