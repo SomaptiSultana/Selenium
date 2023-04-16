@@ -28,7 +28,7 @@ public class SelectTest {
 
         driver.findElement(By.cssSelector("button[class$='btn-primary']")).click();
         //driver.findElement(By.cssSelector("form.login-form")).submit();
-        Thread.sleep(3000);
+        Thread.sleep(2000);
 
         //Browser navigate
         driver.navigate().to("https://erpstaging.brac.net/node/mfDashboard#!/loanProposal/create");

@@ -37,7 +37,7 @@ public class AlertsTest {
         System.out.println(PromptAlert.getText());
         Thread.sleep(2000);
         PromptAlert.accept();
-        Thread.sleep(2000);
+        Thread.sleep(3000);
 
         driver.quit();
 

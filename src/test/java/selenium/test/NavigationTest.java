@@ -31,7 +31,7 @@ public class NavigationTest {
 
         //Browser navigation
         driver.navigate().to("https://erpstaging.brac.net/node/mfDashboard#!/memberInfo/index");
-        Thread.sleep(2000);
+        Thread.sleep(3000);
         driver.navigate().back();
         Thread.sleep(2000);
         driver.navigate().forward();
